@@ -16,7 +16,9 @@ Puis nous allons afficher à l'aide du second fichier python les sort que Pito p
 ```
   py getDataInDB.py
 ```
-Résultat ''
+Résultat 
+
+
 | Nom Sort | Level | Composantes |
 | ------- | -------- | ------- |
 | Blindness/Deafness | 2 | V |
