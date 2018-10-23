@@ -5,14 +5,15 @@ Exercice 1
 Question 1
 Pre-Requis: Avoir installer Python, MongoDB
 Dans le répertoire exercice1, executer le code suivant pour executer le crawler afin de créer le JSON:
+```
   py 
-Etape 2:
+```
+Résultat du programme: cf crawlerJson.png
 
 Question 2
 
 
 Question 3
-
 
 
 Exercice 2
