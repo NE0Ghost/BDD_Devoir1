@@ -4,7 +4,7 @@ Auteur: Nicolas Corronel & Johan Maurel
 # Exercice 1
 
 ## Question 1
-
+### Crawler + MongoDB
 Pre-Requis: Avoir installer Python, MongoDB
 Dans le répertoire exercice1, executer le code suivant pour executer le crawler afin de créer le JSON:
 ```
@@ -13,10 +13,10 @@ Dans le répertoire exercice1, executer le code suivant pour executer le crawler
 Résultat du programme: cf crawlerJson.png
 
 ## Question 2
-
+### MapReduce
 
 ## Question 3
-
+### SQLite
 
 # Exercice 2
 Pour cet exercice, nous avons utilisé NodeJS et MongoDB donc il faut les avoir installer.
