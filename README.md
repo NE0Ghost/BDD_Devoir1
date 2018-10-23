@@ -16,7 +16,7 @@ Puis nous allons afficher à l'aide du second fichier python les sort que Pito p
 ```
   py getDataInDB.py
 ```
-Résultat 
+Résultat (Voir ci-dessous ou capture du résultat console dans le dossier : ResultatSQLite.png)
 
 
 | Nom Sort | Level | Composantes |
@@ -39,7 +39,7 @@ Résultat
 | Storm Ste | 3 | V |
 
 #### Question 2: MapReduce
-Nous n'avons pas fait de map reduce car
+Sachant que chaque sort est unique, nous trouvons qu'il n'est pas pertinent d'utiliser MapReduce pour cet exercice, une simple condition.
 
 ## Exercice 2
 Pour cet exercice, nous avons utilisé NodeJS et MongoDB donc il faut les avoir installer.
