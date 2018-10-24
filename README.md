@@ -40,7 +40,7 @@ Résultat (Voir ci-dessous ou capture du résultat console dans le dossier : Res
 | Storm Ste | 3 | V |
 
 #### Question 2: MapReduce
-Sachant que chaque sort est unique, nous trouvons qu'il n'est pas pertinent d'utiliser MapReduce pour cet exercice, une simple condition.
+Sachant que chaque sort est unique, nous trouvons qu'il n'est pas pertinent d'utiliser MapReduce pour cet exercice.
 
 ## Exercice 2
 Pour cet exercice, nous avons utilisé NodeJS et MongoDB donc il faut les avoir installer.
@@ -55,5 +55,6 @@ Ensuite, il faut simplement lancer l'execution du JS avec la ligne :
 ```
 On peut voir qu'après plusieurs itérations, les résultats
 Puis, après 20 itérations, nous obtenons les résultats attendus.
+Voir capture : pagerank.png
 
 
