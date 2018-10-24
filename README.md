@@ -9,7 +9,8 @@ Dans le répertoire exercice1, executer le code suivant pour executer le crawler
 ```
   py getAndInject.py
 ```
-Le crawler fait déjà un premier tri en ne choisissant que les sorts de wizard/sorcerer grâce à des RegEx.
+Le crawler fait déjà un premier tri en ne choisissant que les sorts de wizard/sorcerer grâce à des RegEx. 
+
 Résultat du programme: cf crawlerJson.png
 
 Puis nous allons afficher à l'aide du second fichier python les sort que Pito peut faire: 
