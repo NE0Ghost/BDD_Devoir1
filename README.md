@@ -55,6 +55,7 @@ Ensuite, il faut simplement lancer l'execution du JS avec la ligne :
 ```
 On peut voir qu'après plusieurs itérations, les résultats
 Puis, après 20 itérations, nous obtenons les résultats attendus.
+
 Voir capture : pagerank.png
 
 
